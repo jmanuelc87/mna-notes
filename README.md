@@ -1,2 +1,5 @@
-# mna-notes
-Repository to hold all the notebooks created during my master degree.
+# MNA Notes
+
+Repository to hold some of the notebooks created during my master degree.
+
+
