@@ -10,7 +10,8 @@ I created this repository to hold some of the notebooks created during my master
 4. Natural Language Processing
 5. Advanced Machine Learning Methods
 6. Machine Learning Operations
-7. Quality Assurance
-8. Generative AI
-9. Big Data Analytics
-10. Final Project
+7. Navegación Autónoma
+8. Quality Assurance
+9. Generative AI
+10. Big Data Analytics
+11. Final Project
