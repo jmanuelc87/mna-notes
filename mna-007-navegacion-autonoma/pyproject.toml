@@ -1,0 +1,15 @@
+[project]
+name = "navegacion-autonoma"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "opencv-contrib-python>=4.12.0.88",
+    "opencv-python>=4.12.0.88",
+]
+
+[dependency-groups]
+dev = [
+    "pyqt5>=5.15.11",
+]
